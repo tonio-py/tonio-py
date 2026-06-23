@@ -1,14 +1,22 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Computer+Scientist;Junior+Backend+Developer;Python+%2B+FastAPI;Loves+Algorithms+%26+Theory)](https://git.io/typing-svg)
+
 ### Hey, I'm Antonio 👋
 
-I'm a Computer Scientist, Python Tutor and Junior Backend Developer with a strong love 
-for algorithms, data structures, and theoretical CS. I enjoy building 
-clean, efficient backend systems just as much as I enjoy understanding 
-*why* they work.
+I enjoy building clean, efficient backend systems just as much as understanding *why* they work underneath.
 
-- 🔧 **Backend stack:** Python, FastAPI, PostgreSQL  
-- 📚 **Currently learning:** [system design / Docker / AWS ]  
-- 🧠 **Interests:** Algorithms, data structures, computational theory  
-- 🚀 **Working on:** [Writing a Python series focused on thinking, not just syntax]
+<table width="100%">
+  <tr>
+    <td align="left">
+
+- 📚 **Currently learning:** Docker & AWS  
+- 🚀 **Writing:** a Python series focused on thinking, not just syntax
+
+    </td>
+    <td align="right">
+      <img src="./gemi.png" width="150" alt="character" />
+    </td>
+  </tr>
+</table>
 
 #### Tech Stack
 
